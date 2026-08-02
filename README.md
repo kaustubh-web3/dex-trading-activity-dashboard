@@ -36,7 +36,7 @@ How has decentralized exchange (DEX) activity changed over the last 30 days, and
 
 **Dune Dashboard:**
 
-Paste your Dune dashboard link here.
+https://dune.com/onchain23/dex-trading-activity-dashboard.
 
 ---
 
