@@ -71,4 +71,5 @@ README.md
 
 ## Screenshots
 
-Add your dashboard screenshots below.
+<img width="1920" height="1080" alt="DEX Trading Activity Dashboard" src="https://github.com/user-attachments/assets/e59ebac8-7572-47ce-8071-aeddb4a3dcfa" />
+.
