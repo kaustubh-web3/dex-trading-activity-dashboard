@@ -87,35 +87,41 @@ README.md
 
 ## Complete Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](<img width="1920" height="1080" alt="DEX Trading Activity Dashboard" src="https://github.com/user-attachments/assets/9c6d6802-161d-444d-aade-278820311ab1" />
+)
 
 ---
 
 ## Daily Trading Volume
 
-![Daily Trading Volume](screenshots/daily_trading_volume.png)
+![Daily Trading Volume](<img width="612" height="474" alt="daily_trading_volume png" src="https://github.com/user-attachments/assets/03fa76eb-5763-4f97-b542-a48c83d527c0" />
+)
 
 ---
 
 ## Daily Number of Trades
 
-![Daily Trades](screenshots/daily_number_of_trades.png)
+![Daily Trades](<img width="625" height="493" alt="daily_number_of_trades png" src="https://github.com/user-attachments/assets/d5ada340-43f7-461b-a35d-46cd9181e553" />
+)
 
 ---
 
 ## Daily Unique Traders
 
-![Unique Traders](screenshots/daily_unique_traders.png)
+![Unique Traders](<img width="597" height="469" alt="daily_unique_traders png" src="https://github.com/user-attachments/assets/59e60b32-af5c-4031-b199-dd583e980c18" />
+)
 
 ---
 
 ## Top DEXs by Trading Volume
 
-![Top DEXs](screenshots/top_dexs_by_volume.png)
+![Top DEXs](<img width="596" height="479" alt="top_dexs_by_volume png" src="https://github.com/user-attachments/assets/66df13f7-82f7-4589-ac29-b714941549f1" />
+)
 
 ---
 
 ## DEX Market Share
 
-![Market Share](screenshots/dex_market_share.png)
+![Market Share](<img width="621" height="477" alt="dex_market_share png" src="https://github.com/user-attachments/assets/9d4bd47e-b8f2-4ac6-a640-bd58c7ba8701" />
+)
 .
