@@ -36,14 +36,20 @@ How has decentralized exchange (DEX) activity changed over the last 30 days, and
 
 **Dune Dashboard:**
 
-https://dune.com/onchain23/dex-trading-activity-dashboard.
+https://dune.com/onchain23/dex-trading-activity-dashboard
 
 ---
 
 ## Repository Structure
 
 ```text
-queries/
+queries/## SQL Queries
+
+- Query 1 – Daily Trading Volume
+- Query 2 – Daily Number of Trades
+- Query 3 – Daily Unique Traders
+- Query 4 – Top DEXs by Trading Volume
+- Query 5 – DEX Market Share
 screenshots/
 README.md
 ```
@@ -66,10 +72,50 @@ README.md
 - Dashboard Design
 - Data Visualization
 - Business Analysis
+## Project Highlights
 
+- Analyzed the last 30 days of DEX activity.
+- Wrote five SQL queries using Dune Analytics.
+- Built an interactive dashboard with multiple visualizations.
+- Identified leading DEXs by trading volume.
+- Generated business insights from on-chain data.
 ---
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="DEX Trading Activity Dashboard" src="https://github.com/user-attachments/assets/e59ebac8-7572-47ce-8071-aeddb4a3dcfa" />
+# Dashboard Screenshots
+
+## Complete Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Daily Trading Volume
+
+![Daily Trading Volume](screenshots/daily_trading_volume.png)
+
+---
+
+## Daily Number of Trades
+
+![Daily Trades](screenshots/daily_number_of_trades.png)
+
+---
+
+## Daily Unique Traders
+
+![Unique Traders](screenshots/daily_unique_traders.png)
+
+---
+
+## Top DEXs by Trading Volume
+
+![Top DEXs](screenshots/top_dexs_by_volume.png)
+
+---
+
+## DEX Market Share
+
+![Market Share](screenshots/dex_market_share.png)
 .
